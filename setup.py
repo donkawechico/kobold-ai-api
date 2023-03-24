@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='kobold-ai-api',
-    version='0.1.0',
+    version='0.1.1',
     description='Python library for interacting with KoboldAi API',
     author='Donnie Karns',
     author_email='',
